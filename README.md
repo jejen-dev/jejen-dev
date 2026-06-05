@@ -36,18 +36,6 @@ Focused on building responsive, scalable, and user-centered web applications wit
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,git,github,vscode,figma" />
-</p>
-
-<p align="left">
-  <strong>Tailwind CSS</strong> is my go-to utility-first framework ✨
-</p>
-
----
-
 ## Selected Work
 
 | Project | Description | Live Demo |
