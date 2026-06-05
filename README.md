@@ -36,14 +36,12 @@ Focused on building responsive, scalable, and user-centered web applications wit
 
 ---
 
-## Selected Work
+## Featured Projects
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | 🍣 **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [Demo](https://jonkira.vercel.app/) |
 | 🗂️ **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [Demo](https://task-manager-app-steel-ten.vercel.app/) |
-
-> 💡 More projects on my [repositories](https://github.com/jejen-dev?tab=repositories).
 
 ---
 
