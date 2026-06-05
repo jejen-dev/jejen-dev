@@ -38,10 +38,10 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 
 ## Featured Projects
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [Demo](https://jonkira.vercel.app/) |
-| **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [Demo](https://task-manager-app-steel-ten.vercel.app/) |
+| Project          | Overview                                                                                               | Link                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| **Jonkira**      | A modern restaurant landing page focused on clean design, responsiveness, and user experience.         | [View](https://jonkira.vercel.app/)                    |
+| **Task Manager** | A productivity-focused Kanban application featuring drag-and-drop interactions and persistent storage. | [View](https://task-manager-app-steel-ten.vercel.app/) |
 
 ---
 
