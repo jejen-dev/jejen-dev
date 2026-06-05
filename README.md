@@ -1,81 +1,96 @@
-<h1 align="center">Hi 👋, I'm Jejen</h1>
-<h3 align="center">A passionate Front-End Engineer from Indonesia</h3>
+<h1 align="center">✨ Hi 👋, I'm Jejen ✨</h1>
+<h3 align="center">A passionate Front-End Engineer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A7C7E7&center=true&vCenter=true&width=435&lines=Front-End+Engineer;React+%26+TypeScript+Enthusiast;Tailwind+CSS;Building+modern+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A7C7E7&center=true&vCenter=true&width=500&lines=Front-End+Engineer;React+%26+TypeScript+Enthusiast;Tailwind+CSS+Lover;Building+modern+web+experiences;Always+learning+new+things+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20to%20work-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Portfolio%20coming%20soon-D3E0F0?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🌸 About Me
 
-- 🔭 I’m currently working on **awesome front-end projects**
-- 🌱 I’m learning **Next.js, Tailwind CSS, and advanced TypeScript**
-- 🎨 I love using **Tailwind CSS** for rapid UI development
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/jejen-dev?tab=repositories)
+- 🌱 I’m currently learning **Next.js, Tailwind CSS, and advanced TypeScript**
+- 🎨 I love turning designs into **pixel-perfect, responsive web experiences**
+- 👨‍💻 All my projects are available at <a href="https://github.com/jejen-dev?tab=repositories" style="color: #A7C7E7;">my repositories</a>
 - 💬 Ask me about **React, Vue, JavaScript, Tailwind CSS, and responsive design**
 - 📫 How to reach me: **jejen.profile@gmail.com**
-- ⚡ Fun fact: **I love turning designs into pixel-perfect code**
+- ⚡ Fun fact: **I think in components and breathe in CSS**
 
 ---
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,git,github,vscode,figma" />
 </p>
-
-<p align="left">
-  <strong>Tailwind CSS</strong> is my go-to utility-first framework ✨
+<p align="center">
+  <strong>✨ Tailwind CSS is my soulmate ✨</strong>
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 🍣 **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [Demo](https://jonkira.vercel.app/) |
-| 🗂️ **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [Demo](https://task-manager-app-steel-ten.vercel.app/) |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        🍣 <strong>Jonkira</strong><br />
+        Modern landing page for a Japanese restaurant.<br />
+        Built with <strong>Tailwind CSS</strong>, responsive & smooth.<br />
+        <a href="https://jonkira.vercel.app/" style="color: #A7C7E7;">Demo →</a>
+      </td>
+      <td align="center">
+        🗂️ <strong>Task Manager App</strong><br />
+        Kanban-style task manager with drag & drop.<br />
+        React + TypeScript + Tailwind CSS.<br />
+        <a href="https://task-manager-app-steel-ten.vercel.app/" style="color: #A7C7E7;">Demo →</a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-> 💡 More projects on my [repositories](https://github.com/jejen-dev?tab=repositories).
+<p align="center">
+  💡 More on <a href="https://github.com/jejen-dev?tab=repositories" style="color: #A7C7E7;">my GitHub</a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-<div align="center">
-  <a href="https://discord.com/users/1322319683130757126" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+<p align="center">
+  <a href="https://discord.com/users/1322319683130757126" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:jejen.profile@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:jejen.profile@gmail.com" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/jaendv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/jaendv" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/jennndv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  <a href="https://t.me/jennndv" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/jejen-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://linkedin.com/in/jejen-dev" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-
-
-###
+</p>
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=🌸%20Profile%20Visitors&color=A7C7E7&style=flat" alt="Profile views" />
 </p>
