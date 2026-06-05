@@ -53,7 +53,7 @@
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://discord.com/users/1322319683130757126" target="_blank" style="text-decoration: none; border-bottom: none;">
+  <a href="https://discord.com/users/1322319683130757126" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
   <a href="mailto:jejen.profile@gmail.com" target="_blank">
