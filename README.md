@@ -53,20 +53,20 @@
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://discord.com/users/1322319683130757126" target="_blank" style="text-decoration: none !important; border-bottom: none !important; display: inline-flex !important; align-items: center !important; color: transparent !important; background: transparent !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="display: block; border: none; background: transparent; outline: none;" />
+  <a href="https://discord.com/users/1322319683130757126" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="mailto:jejen.profile@gmail.com" target="_blank" style="text-decoration: none !important; border-bottom: none !important; display: inline-flex !important; align-items: center !important; color: transparent !important; background: transparent !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="display: block; border: none; background: transparent; outline: none;" />
+  <a href="mailto:jejen.profile@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.instagram.com/jaendv" target="_blank" style="text-decoration: none !important; border-bottom: none !important; display: inline-flex !important; align-items: center !important; color: transparent !important; background: transparent !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="display: block; border: none; background: transparent; outline: none;" />
+  <a href="https://www.instagram.com/jaendv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://t.me/jennndv" target="_blank" style="text-decoration: none !important; border-bottom: none !important; display: inline-flex !important; align-items: center !important; color: transparent !important; background: transparent !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" style="display: block; border: none; background: transparent; outline: none;" />
+  <a href="https://t.me/jennndv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
-  <a href="https://linkedin.com/in/jejen-dev" target="_blank" style="text-decoration: none !important; border-bottom: none !important; display: inline-flex !important; align-items: center !important; color: transparent !important; background: transparent !important; outline: none !important; box-shadow: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="display: block; border: none; background: transparent; outline: none;" />
+  <a href="https://linkedin.com/in/jejen-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 
