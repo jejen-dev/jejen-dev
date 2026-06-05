@@ -36,7 +36,7 @@
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | 🍣 **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [https://jonkira.vercel.app/](#)|
-| ✅ **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [task-manager-app-steel-ten.vercel.app](#)|
+| 🗂️ **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [task-manager-app-steel-ten.vercel.app](#)|
 
 > 💡 More projects on my [repositories](https://github.com/jejen-dev?tab=repositories).
 
