@@ -21,7 +21,7 @@
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,git,github,vscode,figma" />
 </p>
 
@@ -72,10 +72,12 @@
   </a>
 </div>
 
+
+
 ###
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
