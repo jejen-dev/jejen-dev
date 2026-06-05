@@ -14,11 +14,7 @@
   <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<p align="center">
-  Front-End Engineer • Indonesia
-</p>
+<br/>
 
 </div>
 
