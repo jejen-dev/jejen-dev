@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=Profile%9398482Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
