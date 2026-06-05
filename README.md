@@ -60,23 +60,23 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 <div align="center">
 
 <a href="mailto:jejen.profile@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/jejen-dev">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/jennndv">
-  <img src="https://skillicons.dev/icons?i=telegram" height="42" />
+  <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://discord.com/users/1322319683130757126">
-  <img src="https://skillicons.dev/icons?i=discord" height="42" />
+  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/jaendv">
-  <img src="https://skillicons.dev/icons?i=instagram" height="42" />
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
