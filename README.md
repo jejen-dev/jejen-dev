@@ -21,7 +21,7 @@
 
 ### 🚀 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,git,github,vscode,figma" />
 </p>
 
@@ -52,8 +52,6 @@
 
 ### 🤝 Let's Connect
 
-<br clear="both">
-
 <div align="center">
   <a href="https://discord.com/users/1322319683130757126" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
@@ -78,6 +76,6 @@
 
 ---
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
