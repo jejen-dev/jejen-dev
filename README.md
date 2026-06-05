@@ -40,24 +40,14 @@ Focused on building responsive, scalable, and user-centered web applications wit
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 🍣 **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [Demo](https://jonkira.vercel.app/) |
-| 🗂️ **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [Demo](https://task-manager-app-steel-ten.vercel.app/) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+| **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [Demo](https://jonkira.vercel.app/) |
+| **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [Demo](https://task-manager-app-steel-ten.vercel.app/) |
 
 ---
 
 ## GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jejen-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=github-dark&hide_border=true"/>
 
