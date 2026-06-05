@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **awesome front-end projects**
 - 🌱 I’m learning **Next.js, Tailwind CSS, and advanced TypeScript**
 - 🎨 I love using **Tailwind CSS** for rapid UI development
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/jejen-dev/repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/jejen-dev?tab=repositories)
 - 💬 Ask me about **React, Vue, JavaScript, Tailwind CSS, and responsive design**
 - 📫 How to reach me: **jejen.profile@gmail.com**
 - ⚡ Fun fact: **I love turning designs into pixel-perfect code**
