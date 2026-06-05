@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-jejenprofile-2104s-projects.vercel.app?username=jejen-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jejen-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejen-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejen-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 ---
