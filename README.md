@@ -59,10 +59,11 @@ Focused on building responsive, scalable, and user-centered web applications wit
 
 <div align="center">
 
+<a href="mailto:jejen.profile@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/jejen-dev">LinkedIn</a> •
-<a href="https://www.instagram.com/jaendv">Instagram</a> •
 <a href="https://t.me/jennndv">Telegram</a> •
-<a href="mailto:jejen.profile@gmail.com">Email</a>
+<a href="https://discord.com/users/1322319683130757126">Discord</a> •
+<a href="https://www.instagram.com/jaendv">Instagram</a>
 
 </div>
 
