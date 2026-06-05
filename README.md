@@ -64,7 +64,7 @@
   <a href="https://www.instagram.com/jaendv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://t.me/baodbaw" target="_blank">
+  <a href="https://t.me/jennndv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
   <a href="https://linkedin.com/in/jejen-dev" target="_blank">
@@ -80,7 +80,3 @@
 </div>
 
 ###
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jejen-dev&label=Profile%9398482Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
