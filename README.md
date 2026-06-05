@@ -20,7 +20,7 @@
 
 ---
 
-## About
+# About
 
 Front-End Engineer from Indonesia, focused on building modern and user-centered web applications.
 
