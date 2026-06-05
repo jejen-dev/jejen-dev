@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Front-End Engineer • Indonesia
 </p>
 
 </div>
@@ -57,17 +57,7 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jejen-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejen-dev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
