@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Front-End+Engineer;React+%7C+TypeScript+%7C+Next.js;Building+Modern+Web+Experiences" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/jejen-dev?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   Front-End Engineer • Indonesia
