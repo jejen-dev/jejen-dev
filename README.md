@@ -59,11 +59,25 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 
 <div align="center">
 
-<a href="mailto:jejen.profile@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/jejen-dev">LinkedIn</a> •
-<a href="https://t.me/jennndv">Telegram</a> •
-<a href="https://discord.com/users/1322319683130757126">Discord</a> •
-<a href="https://www.instagram.com/jaendv">Instagram</a>
+<a href="mailto:jejen.profile@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jejen-dev">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/jennndv">
+  <img src="https://skillicons.dev/icons?i=telegram" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/1322319683130757126">
+  <img src="https://skillicons.dev/icons?i=discord" height="42" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/jaendv">
+  <img src="https://skillicons.dev/icons?i=instagram" height="42" />
+</a>
 
 </div>
 
