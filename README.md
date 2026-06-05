@@ -36,32 +36,34 @@ Focused on building responsive, scalable, and user-centered web applications wit
 
 ---
 
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,git,github,vscode,figma" />
+</p>
+
+<p align="left">
+  <strong>Tailwind CSS</strong> is my go-to utility-first framework ✨
+</p>
+
+---
+
 ## Selected Work
 
-### Jonkira
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🍣 **Jonkira** | Modern landing page for a Japanese restaurant. Built with **Tailwind CSS**, responsive design, smooth animations. | [Demo](https://jonkira.vercel.app/) |
+| 🗂️ **Task Manager App** | Kanban-style task manager with drag & drop, local storage. Styled with **Tailwind CSS** + React & TypeScript. | [Demo](https://task-manager-app-steel-ten.vercel.app/) |
 
-Modern landing page for a Japanese restaurant.
+> 💡 More projects on my [repositories](https://github.com/jejen-dev?tab=repositories).
 
-**Tech**
-- Tailwind CSS
-- Responsive Design
-- Smooth Animations
+---
 
-https://jonkira.vercel.app
+### 📊 GitHub Stats
 
-<br>
-
-### Task Manager
-
-Kanban-style productivity application.
-
-**Tech**
-- React
-- TypeScript
-- Local Storage
-- Drag & Drop
-
-https://task-manager-app-steel-ten.vercel.app
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jejen-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
 
