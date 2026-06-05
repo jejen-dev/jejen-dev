@@ -20,7 +20,7 @@
 
 ## About
 
-Front-End Engineer focused on building responsive and scalable web applications.
+Front-End Engineer from Indonesia.
 
 Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanced TypeScript. Experienced with React, Vue, JavaScript, and responsive design. Passionate about clean UI implementation and pixel-perfect development.
 
