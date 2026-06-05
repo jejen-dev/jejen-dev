@@ -53,20 +53,20 @@
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://discord.com/users/1322319683130757126" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/1322319683130757126" target="_blank" tabindex="-1" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display: block; border: none;" />
   </a>
-  <a href="mailto:jejen.profile@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jejen.profile@gmail.com" target="_blank" tabindex="-1" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: block; border: none;" />
   </a>
-  <a href="https://www.instagram.com/jaendv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/jaendv" target="_blank" tabindex="-1" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="display: block; border: none;" />
   </a>
-  <a href="https://t.me/jennndv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/jennndv" target="_blank" tabindex="-1" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="display: block; border: none;" />
   </a>
-  <a href="https://linkedin.com/in/jejen-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/jejen-dev" target="_blank" tabindex="-1" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display: block; border: none;" />
   </a>
 </div>
 
