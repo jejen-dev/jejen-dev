@@ -46,6 +46,7 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 | ---------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
 | **Jonkira**      | A modern restaurant landing page focused on clean design, responsiveness, and user experience.         | [View](https://jonkira.vercel.app/)                    |
 | **Task Manager** | A productivity-focused Kanban application featuring drag-and-drop interactions and persistent storage. | [View](https://task-manager-app-steel-ten.vercel.app/) |
+| **Portfolio**    | Personal portfolio website showcasing projects, skills, and front-end work.                            | [Visit](https://jejen.vercel.app/)                    |
 
 ---
 
