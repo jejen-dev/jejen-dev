@@ -53,6 +53,15 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 
 ---
 
+## Certificates
+
+| Certificate | Issuer | Credential |
+|------------|---------|------------|
+| **Introduction to Front-End Development** | Meta - Coursera | [View Certificate](https://coursera.org/share/5548120d33e49602b7fdd53796f746dd) |
+| **Programming with JavaScript** | Meta - Coursera | [View Certificate](https://coursera.org/share/9f5bfac26ca318c6a658137070810082) |
+
+---
+
 ## GitHub
 
 <div align="center">
