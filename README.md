@@ -46,11 +46,12 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 
 ## Featured Projects
 
-| Project          | Overview                                                                                               | Links                                                                                                                                                                                                                               |
-| ---------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Jonkira**      | A modern restaurant landing page focused on clean design, responsiveness, and user experience.         | <a href="https://github.com/jejen-dev"><img src="https://skillicons.dev/icons?i=github" width="22"/></a> <a href="https://jonkira.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="22"/></a>                    |
-| **Task Manager** | A productivity-focused Kanban application featuring drag-and-drop interactions and persistent storage. | <a href="https://github.com/jejen-dev"><img src="https://skillicons.dev/icons?i=github" width="22"/></a> <a href="https://task-manager-app-steel-ten.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="22"/></a> |
+| Project          | Overview                                                                                               | Live                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Jonkira**      | A modern restaurant landing page focused on clean design, responsiveness, and user experience.         | <a href="https://jonkira.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="22"/></a>                    |
+| **Task Manager** | A productivity-focused Kanban application featuring drag-and-drop interactions and persistent storage. | <a href="https://task-manager-app-steel-ten.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="22"/></a> |
 
+---
 
 ## Certificates
 
