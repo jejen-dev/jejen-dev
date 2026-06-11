@@ -67,6 +67,12 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
   <img src="https://img.shields.io/badge/Meta-Coursera_|_Programming_with_JavaScript-111111?style=for-the-badge&logo=coursera&logoColor=white" />
 </a>
 
+<br/>
+
+<a href="https://coursera.org/share/5100beaa9bea608e6f97a76ddcaee8ff">
+  <img src="https://img.shields.io/badge/Meta-Coursera_|_Version_Control-111111?style=for-the-badge&logo=coursera&logoColor=white" />
+</a>
+
 </div>
 
 ---
