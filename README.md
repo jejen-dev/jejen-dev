@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://jejen.vercel.app/">
+<a href="https://jejen-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -85,10 +85,6 @@ Working on modern front-end projects. Learning Next.js, Tailwind CSS, and advanc
 
 <a href="https://linkedin.com/in/jejen-dev">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://t.me/jennndv">
-  <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/1322319683130757126">
